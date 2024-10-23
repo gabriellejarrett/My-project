@@ -1,5 +1,6 @@
 ---
 title: "my-project"
+author: "Gabrielle Jarrett"
 format: html
 ---
 
